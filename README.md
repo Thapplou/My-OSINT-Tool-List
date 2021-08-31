@@ -34,4 +34,4 @@ Resources\
   Conferences\
   Professional Training\
   Books\
-  Practice CTFs\
+  Practice (CTFs)
