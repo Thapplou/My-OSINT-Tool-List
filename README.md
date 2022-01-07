@@ -1,4 +1,4 @@
-# Trapzi's OSINT Tool List
+# OSINT Tool List
 
 **A neatly organized OSINT tool list that I use during OSINT Investigations**\
 This list Is made for beginners trying to break Into the field, and professionals looking to expand their OSINT tool list\
