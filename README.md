@@ -4,7 +4,7 @@
 This list Is made for beginners trying to break Into the field, and professionals looking to expand their OSINT tool list\
 
 **What Is OSINT?**\
-Open Source Intelligence (OSINT) Is Information that Is accessiable from public sources, this Includes paid and registration required sources.\
+Open Source Intelligence (OSINT) Is Information that Is accessiable from public sources, this Includes paid and registration required sources.
 
 **What are the use cases of OSINT?**\
 OSINT has a variety of use cases, \
